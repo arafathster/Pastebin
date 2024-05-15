@@ -1,0 +1,96 @@
+#EXTM3U
+00:1a:79:a8:71:f7
+00:1A:79:A8:9C:32
+00:1a:79:6c:31:19
+00:1A:79:31:62:1E
+
+#EXTINF:0,Adithya TV (Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,SUN TV (Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,KTV (Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Sun Music(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Sun Life(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Star Vijay(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Vijay Super(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Star Vijay UK(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43513&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Zee Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Zee Thirai(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Colors Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,EET TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=105&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Raj TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Raj Digital(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Raj Musix(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Kalaingnar TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43520&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Sirippoli(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Isaiaruvi(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43522&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Jaya TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Jaya Max(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Jaya Movie(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Vendhar TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Polimer TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Sun News(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Puthiyathalaimurai(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,News7 Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,News18 Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Polimer News(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43515&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Raj News(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=85935&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Seithigal(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Jaya Plus(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=85932&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Vikadan TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=123917&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Wow Kids(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Chutti TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Discovery Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43516&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Chithiram TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Sony Yay Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=78846&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Peppers(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Pothigai TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=4912&deviceMac=00:1A:79:6C:30:37
+#EXTINF:0,Dheeran TV(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=43514&uid=4912&deviceMac=00:1A:79:6C:30:37
+
+#EXTINF:-1,Star Sports Tamil(Cloud)
+http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=4912&deviceMac=00:1A:79:6C:30:37
+
+#EXTINF:-1,STAR SPORT 1 HD
+http://176.119.29.52/live.ts?channelId=293&uid=2496&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1,STAR SPORT 1-HD (hindi)
+http://tv.cloudcdn.me/live.ts?channelId=295&uid=2496&deviceMac=00:1A:79:A8:9C:32
+#EXTINF:-1,STAR SPORT 1-HD (hindi)
+http://tv.cloudcdn.me/live.ts?channelId=49569&uid=2496&deviceMac=00:1A:79:A8:9C:32
