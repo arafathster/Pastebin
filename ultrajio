@@ -1,0 +1,255 @@
+_________ TAMIL ULTRA| JIO TAMIL_______
+ 
+ 
+#EXTM3U 
+
+#EXTINF:-1,Tamil Ultra
+https://tamilultra.team/master.m3u8?c=TAMILULTRA_MOVIES&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,VIJAY_SUPER
+https://tamilultra.team/master.m3u8?c=VIJAY_SUPER&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,VIJAY_TAKKAR
+https://tamilultra.team/master.m3u8?c=VIJAY_TAKKAR&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,STAR_VIJAY
+https://tamilultra.team/master.m3u8?c=STAR_VIJAY&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,TAMIL_CINEMA
+https://tamilultra.team/master.m3u8?c=TAMIL_CINEMA&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,NAT_GEO_TAMIL
+https://tamilultra.team/master.m3u8?c=NAT_GEO_TAMIL&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1,NAT_GEO_WILD_TAMIL
+https://tamilultra.team/master.m3u8?c=NAT_GEO_WILD_TAMIL&server=1|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="211" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="",Adithya TV
+https://tamilultra.team/api/jiotv.m3u8?id=709|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="64" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="",Sun TV HD
+https://tamilultra.team/api/jiotv.m3u8?id=896|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="77" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="",KTV HD
+https://tamilultra.team/api/jiotv.m3u8?id=894|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="113" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="",Sun Music HD
+https://tamilultra.team/api/jiotv.m3u8?id=895|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="237" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="",Sun Life
+https://tamilultra.team/api/jiotv.m3u8?id=682|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="733" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="",Zee Thirai
+https://tamilultra.team/api/jiotv.m3u8?id=2256|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="51" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="",Zee Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=628|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="51" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="",Zee_Tamil_HD
+https://tamilultra.team/api/jiotv.m3u8?id=1356|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="",Colors Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=1371|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="63" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="",Colors Tamil HD
+https://tamilultra.team/api/jiotv.m3u8?id=429|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="",Jaya TV HD
+https://tamilultra.team/api/jiotv.m3u8?id=419|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="233" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="",J Movies
+https://tamilultra.team/api/jiotv.m3u8?id=417|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="209" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="",Raj TV
+https://tamilultra.team/api/jiotv.m3u8?id=707|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="241" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="",Raj Digital Plus
+https://tamilultra.team/api/jiotv.m3u8?id=683|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="512" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="",Kalaignar TV
+https://tamilultra.team/api/jiotv.m3u8?id=1209|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="",Raj Musix
+https://tamilultra.team/api/jiotv.m3u8?id=748|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="124" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="",Jaya Max
+https://tamilultra.team/api/jiotv.m3u8?id=420|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="",MK TV
+https://tamilultra.team/api/jiotv.m3u8?id=847|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="",MK Music
+https://tamilultra.team/api/jiotv.m3u8?id=845|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="284" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="",Sahana Music
+https://tamilultra.team/api/jiotv.m3u8?id=749|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="611" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="",Tunes6
+https://tamilultra.team/api/jiotv.m3u8?id=803|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="186" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="",Vendhar TV
+https://tamilultra.team/api/jiotv.m3u8?id=857|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="194" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="",Puthu Yugam
+https://tamilultra.team/api/jiotv.m3u8?id=824|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="207" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="",Polimer TV
+https://tamilultra.team/api/jiotv.m3u8?id=705|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="",Makkal TV
+https://tamilultra.team/api/jiotv.m3u8?id=708|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="210" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="",Vaanavil_TV
+https://tamilultra.team/api/jiotv.m3u8?id=971|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="213" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="",Captain tv
+https://tamilultra.team/api/jiotv.m3u8?id=711|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="",Vasanth TV
+https://tamilultra.team/api/jiotv.m3u8?id=727|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="",DD Podhigai
+https://tamilultra.team/api/jiotv.m3u8?id=726|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="",Peppers TV
+https://tamilultra.team/api/jiotv.m3u8?id=796|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="",Madhimugam TV
+https://tamilultra.team/api/jiotv.m3u8?id=843|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="222" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="",Moon_Tv
+https://tamilultra.team/api/jiotv.m3u8?id=1518|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="676" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="",Sun News
+https://tamilultra.team/api/jiotv.m3u8?id=676|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="257" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="",News7 Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=673|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="272" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="",News 18 Tamilnadu
+https://tamilultra.team/api/jiotv.m3u8?id=615|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="",Puthiya Thalimurai
+https://tamilultra.team/api/jiotv.m3u8?id=677|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="96" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="",Thanthi TV
+https://tamilultra.team/api/jiotv.m3u8?id=830|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="634" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="",News Tamil 24x7
+https://tamilultra.team/api/jiotv.m3u8?id=1954|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="362" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="",Sathiyam TV
+https://tamilultra.team/api/jiotv.m3u8?id=671|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="513" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="",Kalaignar Seithigal 
+https://tamilultra.team/api/jiotv.m3u8?id=1210|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="310" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="",Jaya Plus
+https://tamilultra.team/api/jiotv.m3u8?id=418|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="310" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="",News_J
+https://tamilultra.team/api/jiotv.m3u8?id=1515|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="310" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="",Raj News 24x7
+https://tamilultra.team/api/jiotv.m3u8?id=767|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="311" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="",Malai Murasu
+https://tamilultra.team/api/jiotv.m3u8?id=826|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="",Captain News
+https://tamilultra.team/api/jiotv.m3u8?id=645|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="357" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="",Win TV
+https://tamilultra.team/api/jiotv.m3u8?id=970|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="",D Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=569|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="",History TV18 HD Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=579|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="150" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="",Travelxp Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=814|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="153" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="",Sony BBC Earth HD Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=853|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="",Animal Planet HD Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=1219|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="321" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="",Chutti TV
+https://tamilultra.team/api/jiotv.m3u8?id=557|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="130" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="",Nick Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=546|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="131" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="",Pogo Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=542|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="",Cartoon Network Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=817|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="410" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="",CN HD+ Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=1081|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="323" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="",sonic Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=290|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="326" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="",Discovery Kids Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=550|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="",Sony Yay Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=873|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="",Sony Ten 1
+https://tamilultra.team/api/jiotv.m3u8?id=514|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="109" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="",Sony Ten1_HD
+https://tamilultra.team/api/jiotv.m3u8?id=162|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="",Ten 2
+https://tamilultra.team/api/jiotv.m3u8?id=523|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="",Ten2_HD
+https://tamilultra.team/api/jiotv.m3u8?id=891|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="111" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="",Sony Ten 3
+https://tamilultra.team/api/jiotv.m3u8?id=524|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="110" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="",Ten3_HD
+https://tamilultra.team/api/jiotv.m3u8?id=892|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="100" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="",Sony Ten 3 HD
+https://tamilultra.team/api/jiotv.m3u8?id=892|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="",Sony Ten 4 HD Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=1772|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="",Sony Ten 4 Tamil
+https://tamilultra.team/api/jiotv.m3u8?id=1774|Referer=https://tamilultra.team/
+
+#EXTINF:-1 tvg-id="112" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="",Sony Ten 5
+https://tamilultra.team/api/jiotv.m3u8?id=525|Referer=https://tamilultra.team/
+
+#EXTINF:-1,SIRIPPOLI
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
+#EXTINF:-1,ISAIARUVI
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8?e=1
+
+#EXTINF:-1,IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
+#EXTINF:-1,IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+
+#EXTINF:-1,IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+#EXTINF:-1,IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+
+#EXTINF:-1,AADHAVAN
+https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8?md5=myqWpyWAk1mgFzarf0_sxA&expires=1707673779
+
+#EXTINF:-1,BLACK SHEEP
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8?b=4
